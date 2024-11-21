@@ -12,7 +12,7 @@ A simple and interactive web application that converts speech into text using th
 
 ## Demo
 
-App Screenshot![alt text](image.png)
+![alt text](image.png)
 
 ## Technologies Used
 
